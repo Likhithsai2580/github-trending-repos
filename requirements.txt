@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+moviepy==1.0.3
+edge-tts
+Pillow
+opencv-python
+numpy
+selenium
+webdriver_manager
+sumy
+nltk
